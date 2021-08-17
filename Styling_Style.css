@@ -1,0 +1,25 @@
+#FirstHeading {
+    background-color: black;
+    color: white;
+    font-family: 'Varela Round';
+    margin-bottom: 1%;
+}
+
+#SecondHeading {
+    text-align: center;
+    color: white;
+    background-color: rgb(102,51,153);
+    font-family: 'Varela Round';
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#ThirdHeading{
+    text-align: right;
+    background-color: rgb(159,197,248);
+    font-family: 'Varela Round';
+    font-size: 15px;
+    color: rgb(92,102,157);
+    margin-top: 1%;
+
+}
